@@ -1,0 +1,18 @@
+# Anna Chen, updated by Suegene Noh
+# The following pipeline was applied to all sample files to generate count tables. 
+
+# QC
+fastp -i initial_data/864_090mpi_delta433_S1_R1_001.fastq.gz -o QC_data/864_090mpi_delta433_S1_R1_001.fastp.fastq.gz -I initial_data/864_090mpi_delta433_S1_R2_001.fastq.gz -O QC_data/864_090mpi_delta433_S1_R2_001.fastp.fastq.gz 
+
+# align
+STAR --genomeDir dicty_reference_20230116/STAR_index --readFilesIn QC_data/864_090mpi_delta433_S1_R1_001.fastp.fastq.gz QC_data/864_090mpi_delta433_S1_R2_001.fastp.fastq.gz --outFileNamePrefix align_output/864_090mpi_delta433_S1_aligned. --outSAMtype BAM Unsorted --outSAMattributes All --readFilesCommand zcat
+
+# sort
+samtools view -f 0x2  -h align_output/864_090mpi_delta433_S1_aligned.Aligned.out.bam | samtools sort -n -o sort_read/864_090mpi_delta433_S1_sorted.bam
+
+# read groups
+samtools addreplacerg -r ID:S1 -r LB:864_090mpi_delta433 -r SM:864_090mpi_delta433 -o sort_read/864_090mpi_delta433_S1_sorted_rg.bam sort_read/864_090mpi_delta433_S1_sorted.bam
+
+# count
+samtools view sort_read/S1/864_090mpi_delta433_S1_sorted_rg.bam | htseq-count -s reverse -a 20 - dicty_reference_20230116/dicty_chromosomal_num_fixed.gtf > count_tables/864_090mpi_delta433_S1.star.count
+

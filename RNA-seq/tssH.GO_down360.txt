@@ -1,0 +1,46 @@
+GOBPID	Term	ExpCount	Count	Size	Pvalue
+1	GO:0034660	ncRNA metabolic process	50.644	123	307	0
+2	GO:0006364	rRNA processing	8.197	39	52	0
+5	GO:0000154	rRNA modification	4.478	17	27	0
+6	GO:0032259	methylation	18.741	42	113	0
+7	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	3.301	13	20	0
+8	GO:0042273	ribosomal large subunit biogenesis	2.605	11	16	0
+9	GO:0000460	maturation of 5.8S rRNA	4.478	15	27	0
+12	GO:0030488	tRNA methylation	4.146	14	25	0
+16	GO:0035821	modulation of process of another organism	1.659	8	10	0
+17	GO:0001510	RNA methylation	4.096	13	25	0
+18	GO:0007049	cell cycle	19.614	37	120	0
+19	GO:0098609	cell-cell adhesion	3.317	11	20	0
+20	GO:0006643	membrane lipid metabolic process	11.112	24	67	0
+23	GO:0046519	sphingoid metabolic process	1.659	7	10	0
+24	GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2.156	8	13	0
+25	GO:0000819	sister chromatid segregation	6.634	16	40	0
+26	GO:0030490	maturation of SSU-rRNA	2.283	8	14	0.001
+27	GO:0006270	DNA replication initiation	2.819	9	17	0.001
+28	GO:0033750	ribosome localization	2.322	8	14	0.001
+29	GO:0098754	detoxification	5.141	13	31	0.001
+31	GO:0030148	sphingolipid biosynthetic process	3.98	11	24	0.001
+33	GO:0140014	mitotic nuclear division	5.971	14	36	0.001
+34	GO:0044242	cellular lipid catabolic process	9.454	19	57	0.001
+35	GO:0000027	ribosomal large subunit assembly	3.151	9	19	0.002
+40	GO:0034471	ncRNA 5'-end processing	2.156	7	13	0.002
+41	GO:0051225	spindle assembly	1.659	6	10	0.002
+42	GO:0071805	potassium ion transmembrane transport	1.659	6	10	0.002
+51	GO:0031503	protein-containing complex localization	2.819	8	17	0.003
+52	GO:0051301	cell division	17.746	29	107	0.004
+53	GO:0007059	chromosome segregation	7.423	15	45	0.004
+54	GO:0042254	ribosome biogenesis	5.379	12	36	0.004
+55	GO:0098869	cellular oxidant detoxification	4.146	10	25	0.004
+66	GO:0008033	tRNA processing	17.249	28	104	0.005
+67	GO:0016051	carbohydrate biosynthetic process	2.985	8	18	0.005
+68	GO:0006261	DNA-templated DNA replication	6.254	13	38	0.006
+69	GO:0030203	glycosaminoglycan metabolic process	2.488	7	15	0.006
+70	GO:0001522	pseudouridine synthesis	3.151	8	19	0.008
+71	GO:0051052	regulation of DNA metabolic process	3.151	8	19	0.008
+72	GO:0006672	ceramide metabolic process	1.99	6	12	0.008
+73	GO:0007155	cell adhesion	5.093	11	31	0.008
+74	GO:0000278	mitotic cell cycle	23.551	35	142	0.008
+80	GO:0034661	ncRNA catabolic process	2.654	7	16	0.01
+81	GO:0006221	pyrimidine nucleotide biosynthetic process	2.654	7	16	0.01
+82	GO:0007062	sister chromatid cohesion	2.654	7	16	0.01
+83	GO:0048285	organelle fission	10.283	18	62	0.01

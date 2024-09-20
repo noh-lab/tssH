@@ -1,0 +1,64 @@
+id	ddb	name
+sibA	DDB_G0287363	phagocytic receptor
+far1	DDB_G0281211	folic acid receptor 1
+racA	DDB_G0286555	Rac1
+Dd5P4	DDB_G0267462	inositol 5-phosphatase 4
+pikE	DDB_G0289601	phosphatidylinositol 3-kinase
+lmpB	DDB_G0287035	scavenger receptor
+corA	DDB_G0267382	Coronin
+corB	DDB_G0269388	Coronin
+rab5A	DDB_G0271984	Rab GTPase
+rab7A	DDB_G0269236	Rab GTPase
+arcA	DDB_G0277825	Arp2/3
+arcB	DDB_G0282813	Arp2/3
+arcC	DDB_G0292804	Arp2/3
+arcD	DDB_G0269102	Arp2/3
+arcE	DDB_G0288319	Arp2/3
+arpB	DDB_G0272106	Arp2/3
+arpC	DDB_G0283755	Arp2/3
+racH	DDB_G0269240	small GTPase
+scrA	DDB_G0285253	SCAR
+pip5k3	DDB_G0279149	PIKfyve
+vatA	DDB_G0287127	vATPase subunit A
+vatM	DDB_G0291858	vATPase subunit M
+alyL	DDB_G0286229	lysozyme, gram-negative
+swip	DDB_G0283355	WASH
+fam21	DDB_G0276221	WASH
+wshA	DDB_G0292878	WASH
+ccdc53	DDB_G0267948	WASH
+washc5	DDB_G0288569	WASH
+myoB	DDB_G0289117	myosin 1B heavy chain
+myoK	DDB_G0274575	myosin 1K heavy chain
+dymA	DDB_G0277849	large GTPase dynamin A
+ehd	DDB_G0282233	Eps15 homology domain containing protein
+vsp29	DDB_G0288787	Retromer
+vsp35	DDB_G0293218	Retromer
+abpB	DDB_G0279081	calcium-regulated actin-bundling protein
+CP-p34	DDB_G0291191	cystein protease (acid hydrolase)
+syn7A	DDB_G0287733	SNARE syntaxin 7
+syn8A	DDB_G0288439	SNARE syntaxin 8
+lmpA	DDB_G0267406	scavenger receptor
+lmpC	DDB_G0267440	scavenger receptor
+vti1	DDB_G0292974	SNARE
+vamp7A	DDB_G0284951	SNARE
+ctsD	DDB_G0279411	Cathepsin D (hydrolase)
+vacA	DDB_G0289485	Vacuolin/Flotillin
+vacB	DDB_G0279191	Vacuolin/Flotillin
+vacC	DDB_G0279307	Vacuolin/Flotillin
+p80	DDB_G0287297	copper transporter
+mcln	DDB_G0291275	Mucolipin
+lvsB	DDB_G0271504	lysosomal trafficking regulator
+p62	DDB_G0270098	autophagy receptor
+atg8a	DDB_G0286191	autophagy protein 8
+atg8b	DDB_G0290491	autophagy protein 8
+tirA	DDB_G0289237	toll-interleukin receptor, gram-negative
+clkB	DDB_G0278487	CDK family protein kinase, gram-negative
+spc3	DDB_G0290851	signal peptide complex subunit, gram-negative
+arf1	DDB_G0289173	small GTPase
+rab1A	DDB_G0283757	Rab GTPase
+rab8A	DDB_G0280043	Rab GTPase
+nramp1	DDB_G0276973	iron transporter
+nrampB	DDB_G0275815	iron transporter
+noxA	DDB_G0289653	NADPH oxidase
+cybA	DDB_G0267460	p22phox
+ncfA	DDB_G0288773	p67phox

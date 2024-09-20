@@ -1,0 +1,43 @@
+GOBPID	Term	ExpCount	Count	Size	Pvalue
+1	GO:0043604	amide biosynthetic process	28.113	61	304	0
+3	GO:0006518	peptide metabolic process	29.038	60	314	0
+4	GO:0042254	ribosome biogenesis	18.866	43	204	0
+5	GO:0098609	cell-cell adhesion	1.757	10	19	0
+6	GO:0006412	translation	21.081	43	233	0
+7	GO:0002181	cytoplasmic translation	4.346	14	47	0
+8	GO:0072593	reactive oxygen species metabolic process	1.572	8	17	0
+9	GO:0006091	generation of precursor metabolites and energy	11.652	25	126	0
+14	GO:1990748	cellular detoxification	2.589	9	28	0.001
+17	GO:0000470	maturation of LSU-rRNA	1.757	7	19	0.001
+18	GO:0006163	purine nucleotide metabolic process	11.005	22	119	0.001
+19	GO:0035821	modulation of process of another organism	0.925	5	10	0.001
+20	GO:0010952	positive regulation of peptidase activity	0.925	5	10	0.001
+21	GO:0009205	purine ribonucleoside triphosphate metabolic process	3.329	10	36	0.001
+22	GO:0042981	regulation of apoptotic process	1.387	6	15	0.001
+23	GO:0071826	protein-RNA complex organization	9.248	19	100	0.002
+24	GO:0072524	pyridine-containing compound metabolic process	4.716	12	51	0.002
+25	GO:0043068	positive regulation of programmed cell death	1.017	5	11	0.002
+26	GO:0006955	immune response	1.017	5	11	0.002
+27	GO:0005975	carbohydrate metabolic process	11.56	22	125	0.002
+28	GO:0140694	non-membrane-bounded organelle assembly	5.456	13	59	0.002
+29	GO:0009636	response to toxic substance	3.052	9	33	0.002
+30	GO:0046496	nicotinamide nucleotide metabolic process	4.254	11	46	0.003
+32	GO:0055086	nucleobase-containing small molecule metabolic process	17.109	29	185	0.003
+33	GO:0009218	pyrimidine ribonucleotide metabolic process	1.11	5	12	0.003
+34	GO:0019693	ribose phosphate metabolic process	9.71	19	105	0.003
+35	GO:0009141	nucleoside triphosphate metabolic process	4.439	11	48	0.004
+36	GO:0016072	rRNA metabolic process	14.334	25	155	0.004
+38	GO:0000028	ribosomal small subunit assembly	1.202	5	13	0.005
+39	GO:0007155	cell adhesion	2.814	8	31	0.005
+40	GO:0009201	ribonucleoside triphosphate biosynthetic process	1.757	6	19	0.006
+41	GO:0000027	ribosomal large subunit assembly	1.757	6	19	0.006
+42	GO:0009260	ribonucleotide biosynthetic process	5.364	12	58	0.006
+43	GO:0008064	regulation of actin polymerization or depolymerization	2.867	8	31	0.006
+44	GO:0009145	purine nucleoside triphosphate biosynthetic process	1.295	5	14	0.007
+45	GO:0045454	cell redox homeostasis	1.295	5	14	0.007
+46	GO:1901136	carbohydrate derivative catabolic process	5.456	12	59	0.007
+51	GO:0072527	pyrimidine-containing compound metabolic process	2.404	7	26	0.008
+60	GO:0034599	cellular response to oxidative stress	3.052	8	33	0.009
+61	GO:0046519	sphingoid metabolic process	0.925	4	10	0.01
+62	GO:0019752	carboxylic acid metabolic process	25.154	37	272	0.01
+63	GO:0006081	cellular aldehyde metabolic process	1.942	6	21	0.01

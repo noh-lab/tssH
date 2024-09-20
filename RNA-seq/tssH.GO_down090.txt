@@ -1,0 +1,22 @@
+GOBPID	Term	ExpCount	Count	Size	Pvalue
+2	GO:0006970	response to osmotic stress	0.292	6	21	0
+3	GO:0019752	carboxylic acid metabolic process	3.728	13	268	0
+4	GO:0044281	small molecule metabolic process	4.888	15	376	0
+5	GO:0035821	modulation of process of another organism	0.139	3	10	0
+6	GO:0072330	monocarboxylic acid biosynthetic process	0.64	5	46	0
+7	GO:0016042	lipid catabolic process	0.988	6	71	0
+8	GO:0016053	organic acid biosynthetic process	1.475	7	106	0.001
+9	GO:0009062	fatty acid catabolic process	0.417	4	30	0.001
+15	GO:0072521	purine-containing compound metabolic process	1.892	7	136	0.003
+19	GO:0009116	nucleoside metabolic process	0.292	3	21	0.003
+23	GO:0044272	sulfur compound biosynthetic process	0.376	3	27	0.006
+26	GO:0019395	fatty acid oxidation	0.39	3	28	0.007
+27	GO:0006665	sphingolipid metabolic process	0.392	3	29	0.007
+28	GO:0044282	small molecule catabolic process	1.725	6	124	0.007
+29	GO:0006631	fatty acid metabolic process	0.79	4	60	0.008
+30	GO:0006152	purine nucleoside catabolic process	0.139	2	10	0.008
+31	GO:0009086	methionine biosynthetic process	0.139	2	10	0.008
+32	GO:0055088	lipid homeostasis	0.139	2	10	0.008
+33	GO:0006099	tricarboxylic acid cycle	0.417	3	30	0.008
+34	GO:0042398	cellular modified amino acid biosynthetic process	0.153	2	11	0.01
+35	GO:0043173	nucleotide salvage	0.153	2	11	0.01

@@ -1,0 +1,31 @@
+GOBPID	Term	ExpCount	Count	Size	Pvalue
+2	GO:0051649	establishment of localization in cell	31.843	61	377	0
+5	GO:0043547	positive regulation of GTPase activity	5.406	17	64	0
+8	GO:0007264	small GTPase-mediated signal transduction	4.914	15	59	0
+9	GO:0030705	cytoskeleton-dependent intracellular transport	1.605	8	19	0
+10	GO:0043087	regulation of GTPase activity	2.461	10	30	0
+11	GO:0045184	establishment of protein localization	30.998	52	367	0
+13	GO:0035556	intracellular signal transduction	23.819	42	282	0
+14	GO:0043085	positive regulation of catalytic activity	7.855	19	93	0
+15	GO:0016579	protein deubiquitination	2.703	9	32	0.001
+16	GO:0006886	intracellular protein transport	13.322	25	160	0.001
+17	GO:0071705	nitrogen compound transport	33.363	50	395	0.002
+18	GO:0006892	post-Golgi vesicle-mediated transport	1.943	7	23	0.002
+23	GO:0006887	exocytosis	2.027	7	24	0.003
+24	GO:0007015	actin filament organization	9.629	19	114	0.003
+25	GO:0019219	regulation of nucleobase-containing compound metabolic process	29.14	44	345	0.003
+26	GO:0006468	protein phosphorylation	22.636	36	268	0.003
+27	GO:0006606	protein import into nucleus	3.21	9	38	0.004
+28	GO:0031123	RNA 3'-end processing	4.477	11	53	0.004
+29	GO:0007265	Ras protein signal transduction	3.294	9	39	0.004
+31	GO:0032774	RNA biosynthetic process	33.279	48	394	0.005
+33	GO:0030029	actin filament-based process	12.416	22	147	0.005
+35	GO:0050790	regulation of catalytic activity	5.338	12	65	0.006
+36	GO:0006355	regulation of DNA-templated transcription	24.41	37	289	0.006
+37	GO:0007032	endosome organization	1.267	5	15	0.006
+38	GO:0055088	lipid homeostasis	0.845	4	10	0.007
+41	GO:0016197	endosomal transport	6.166	13	73	0.007
+42	GO:0050658	RNA transport	4.223	10	50	0.008
+43	GO:0051254	positive regulation of RNA metabolic process	10.558	19	125	0.008
+44	GO:0051668	localization within membrane	7.01	14	83	0.009
+45	GO:0009605	response to external stimulus	12.247	21	145	0.01
