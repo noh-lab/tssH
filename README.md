@@ -1,6 +1,6 @@
 # tssH
 This repository supports [Symbiotic T6SS affects horizontal transmission of Paraburkholderia bonniea among 
-Dictyostelium discoideum amoeba hosts](). RNA-sequencing data (raw and processed) are available from NCBI GEO 
+Dictyostelium discoideum amoeba hosts](https://doi.org/10.1093/ismeco/ycaf005). RNA-sequencing data (raw and processed) are available from NCBI GEO 
 GSE276651. 
 
 It contains two directories:
